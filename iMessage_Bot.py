@@ -5,7 +5,7 @@ from random import randrange
 import emoji
 
 
-num = "6786208751‬"
+num = "7704024415‬"
 # Get word from lyrics text
 def get_Addontxt():
     with open('Addon.txt') as file:
